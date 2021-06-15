@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/react-infinite-scroll/static/js/main.1138ed7b.chunk.js",
+    "main.js.map": "/react-infinite-scroll/static/js/main.1138ed7b.chunk.js.map",
+    "runtime-main.js": "/react-infinite-scroll/static/js/runtime-main.068e4a42.js",
+    "runtime-main.js.map": "/react-infinite-scroll/static/js/runtime-main.068e4a42.js.map",
+    "static/js/2.5883fddc.chunk.js": "/react-infinite-scroll/static/js/2.5883fddc.chunk.js",
+    "static/js/2.5883fddc.chunk.js.map": "/react-infinite-scroll/static/js/2.5883fddc.chunk.js.map",
+    "index.html": "/react-infinite-scroll/index.html",
+    "static/js/2.5883fddc.chunk.js.LICENSE.txt": "/react-infinite-scroll/static/js/2.5883fddc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.068e4a42.js",
+    "static/js/2.5883fddc.chunk.js",
+    "static/js/main.1138ed7b.chunk.js"
+  ]
+}
